@@ -1,0 +1,2 @@
+# larangular
+Laravel Angular CRUD
